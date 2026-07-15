@@ -1,0 +1,4 @@
+name,email,phone,birthday,tags,status
+Ali Khan,ali@example.com,03001234567,2000-07-03,vip;student,active
+Sara Ahmed,sara@example.com,03007654321,1999-12-15,customer,active
+Usman Malik,usman@example.com,03005556666,1998-09-20,lead,inactive
